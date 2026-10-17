@@ -4,7 +4,7 @@
   </h1>
   <p>
     <b><a href="https://yulunalexliu.github.io/courses/image-video-generation/">NYCU: Image and Video Generation (2026 Fall)</a></b><br>
-    <a href="#">Video</a>
+    <a href="https://youtu.be/9qofXn6GtpY">Video</a>
     |
     <a href="https://github.com/Sytwu/Lab3-Distillation/blob/main/asset/Lab3-Distillation.pdf">Slides</a>
     |
